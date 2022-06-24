@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/proyecto-cuatro/static/css/main.e5511774.css",
+    "main.js": "/proyecto-cuatro/static/js/main.e9d8e23d.js",
+    "static/media/meal.mp4": "/proyecto-cuatro/static/media/meal.5aa11ab43697c73f125e.mp4",
+    "static/media/burguer.webp": "/proyecto-cuatro/static/media/burguer.79c20c037b33ce346f4c.webp",
+    "static/media/chef.png": "/proyecto-cuatro/static/media/chef.730f25a65fcbb1d67133.png",
+    "static/media/findus.png": "/proyecto-cuatro/static/media/findus.30b718ea8e8db2680e30.png",
+    "static/media/knife.png": "/proyecto-cuatro/static/media/knife.1121c0a5afb62acb31cb.png",
+    "static/media/overlaybg.png": "/proyecto-cuatro/static/media/overlaybg.165362eea72d1614ae28.png",
+    "static/media/gallery01.png": "/proyecto-cuatro/static/media/gallery01.0ba2a79f492bda5ac053.png",
+    "static/media/gallery02.png": "/proyecto-cuatro/static/media/gallery02.7eb2c88c7e382a418eef.png",
+    "static/media/menu.jpg": "/proyecto-cuatro/static/media/menu.51f2c400f47b7b240151.jpg",
+    "static/media/laurels.png": "/proyecto-cuatro/static/media/laurels.b06a074f10fc7be67427.png",
+    "static/media/sign.png": "/proyecto-cuatro/static/media/sign.59cbdcc16a369521a294.png",
+    "static/media/gallery04.png": "/proyecto-cuatro/static/media/gallery04.0551bb62d6f3fda68c79.png",
+    "static/media/gallery03.png": "/proyecto-cuatro/static/media/gallery03.81a831acbcd85c091ac8.png",
+    "static/media/bg.png": "/proyecto-cuatro/static/media/bg.cf43f8f0c6ccf46aeb49.png",
+    "static/media/G.png": "/proyecto-cuatro/static/media/G.b571eb82e589ec305ec9.png",
+    "static/media/award02.png": "/proyecto-cuatro/static/media/award02.8bbdd51499739653b003.png",
+    "static/media/award05.png": "/proyecto-cuatro/static/media/award05.48a7f5206184009dcb29.png",
+    "static/media/award01.png": "/proyecto-cuatro/static/media/award01.361a4bc44b59b55abeda.png",
+    "static/media/award03.png": "/proyecto-cuatro/static/media/award03.3f7ee934c17dccbd5fc6.png",
+    "index.html": "/proyecto-cuatro/index.html",
+    "static/media/spoon.svg": "/proyecto-cuatro/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
+    "main.e5511774.css.map": "/proyecto-cuatro/static/css/main.e5511774.css.map",
+    "main.e9d8e23d.js.map": "/proyecto-cuatro/static/js/main.e9d8e23d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5511774.css",
+    "static/js/main.e9d8e23d.js"
+  ]
+}
