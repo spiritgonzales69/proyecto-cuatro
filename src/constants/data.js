@@ -41,7 +41,7 @@ const cocktails = [
   },
   {
     title: 'Malteada mazapan',
-    price: 'MXN$ 59',
+    price: 'MXN$ 69',
     tags: 'Vaso | 12 onz',
   },
   {
